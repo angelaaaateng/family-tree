@@ -1,0 +1,135 @@
+---
+# yamllint disable rule:line-length
+# ateng edits: jan 20 2021
+
+name: Mariano Ponce
+bio: 'todo: add bio'
+image: images/placeholder.png
+gender: male
+spouse:
+  name: Okiyo Udangawa
+  gender: female
+children:
+  - name: Carmen Ponce Villaroman
+    gender: female
+    spouse:
+      name: Lolo Pepe*
+      gender: male
+      bio: 'todo: get lolo pepes full name'
+    children:
+      - name: Teresita Villaroman Valencia
+        gender: female
+        spouse:
+          name: Mario Gana Valencia
+        children:
+          - name: Antonio Valencia
+            gender: male
+            children:
+              - name: Alexander Valencia
+                gender: male
+              - name: Nicole Valencia
+                gender: female
+          - name: Ma. Teresa Valencia Teng
+            gender: female
+            spouse:
+              name: Joaquin Laxamana Teng Jr.
+              gender: male
+            children:
+              - name: Angela V Teng
+                gender: female
+              - name: Gabriel Angelo V Teng
+                gender: male
+          - name: unknown
+      - name: Mariano Villaroman
+        gender: male
+      - name: Rodrigo Villaroman
+        gender: male
+      - name: Catalina Villaroman
+        gender: female
+      - name: Cesar Villaroman
+        gender: male
+      - name: Cristina Villaroman
+        gender: female
+      - name: Hernan Villaroman
+        gender: male
+        children:
+          - name: Hannah Villaroman
+            gender: female
+          - name: Mariah Villaroman
+            gender: female
+          - name: Villaroman
+            gender: male
+          - name: Kaeden Villaroman
+            gender: male
+      - name: Gerardo Villaroman
+        gender: male
+      - name: Jorge Villaroman
+        gender: male
+        spouse:
+          name: Emily Villaroman
+          gender: female
+      - name: Carmelino Villaroman
+        gender: male
+      - name: Nelia Villaroman
+        gender: female
+      - name: Daniel Villaroman
+        gender: male
+      - name: unknown
+        gender: male
+        bio: early death
+  - name: Conchita Ponce Valero
+    gender: female
+    spouse:
+      name: Valero
+      children:
+        - name:
+  - name: Mary Ponce
+    gender: female
+    spouse: Mr Gonzalez
+    children:
+      - name: Erlinda Ponce Gonzalez Cruz
+        gender: female
+        spouse:
+          name: Tito Cruz
+          gender: male
+      - name: Marianito Ponce Gonzalez
+        gender: male
+        spouse:
+          name: Lola Baby
+          gender: female
+        children:
+          - name: Lito Gonzalez
+            gender: male
+            spouse:
+              name: Cynthia Gonzalez
+            children:
+              - name: Angelo Gonzalez
+                gender: male
+              - name: Issa Gonzalez
+                gender: female
+              - name: Cara Gonzalez
+                gender: female
+          - name: Nanelle Gonzalez
+            gender: female
+          - name: JayJay Gonzalez
+            gender: male
+            spouse:
+              name: Chantelle Gonzalez
+              gender: female
+            children:
+              - name: Anton Gonzalez
+                gender: male
+              - name: Chloe Gonzalez
+                gender: female
+          - name: Budhing Gonzalez
+            gender: female
+            spouse:
+              name: Onie ?
+              gender: male
+          - name: Michiko Gonzalez
+            gender: female
+            children:
+              - name: Diego Gonzalez
+                gender: male
+  - name: Pedro Ponce
+    gender: male
