@@ -9,6 +9,7 @@ gender: male
 spouse:
   name: Okiyo Udangawa
   gender: female
+  bio: Baptized in Baliuag as Maria Concepcion Udagawa Ponce
 children:
   - name: Carmen Ponce Villaroman
     gender: female
@@ -72,6 +73,9 @@ children:
         gender: male
       - name: Nelia Villaroman
         gender: female
+        children:
+          - name: Michelle Villaroman Navato
+            gender: female
       - name: Daniel Villaroman
         gender: male
       - name: unknown
@@ -81,8 +85,15 @@ children:
     gender: female
     spouse:
       name: Valero
-      children:
-        - name:
+    children:
+      - name: Senen Ponce Valero
+        gender: male
+        spouse:
+          name: Mila Valero
+          gender: female
+        children:
+          - name: Philip Valero
+            gender: male
   - name: Mary Ponce
     gender: female
     spouse: Mr Gonzalez
